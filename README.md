@@ -6,8 +6,6 @@ It focuses on business insights such as revenue, customers, products, employees,
 
 The goal is to demonstrate data analysis skills using SQL for business decision making.
 
----
-
  Tool Used
 - MYSQL
 Project Structure
@@ -58,3 +56,4 @@ The project is grouped into four tiers:
 
  Conclusion
 This project demonstrates how SQL can be used to extract meaningful business insights from raw transactional data. It simulates real world data analysis tasks in sales and customer analytics.
+
