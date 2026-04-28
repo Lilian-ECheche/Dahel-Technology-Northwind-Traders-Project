@@ -7,7 +7,7 @@ It focuses on business insights such as revenue, customers, products, employees,
 The goal is to demonstrate data analysis skills using SQL for business decision making.
 
  Tool Used
-- MYSQL
+ MYSQL
 Project Structure
 The project is grouped into four tiers:
 
