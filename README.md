@@ -67,18 +67,23 @@ The SQL project is grouped into four tiers:
 
 
 This project also includes interactive dashboards built in Power BI using the Northwind dataset.
+1. Sales Executive Dashboard
+   The business generated total revenue of 9.65K from 8 orders
+   On-time delivery rate is high (87.5%), indicating good logistics performance
+  Revenue varies across cities, with some cities contributing significantly more
+  Product-level analysis shows that a few products drive most of the revenue
 
-1. Customer and Sales Performance Dashboard
+2. Customer and Sales Performance Dashboard
   Analyzes customer purchase behavior
   Tracks total sales and revenue trends
   Identifies top customers and regions
 
- 2. Product and Inventory Dashboard
+ 3. Product and Inventory Dashboard
    Monitors stock levels and product performance
    Identifies fast moving and slow moving products
    Helps in inventory optimization decisions
 
-   3. Operational and Logistics Dashboard
+  4. Operational and Logistics Dashboard
    Analyzes order processing and shipping performance
    Tracks delivery timelines and efficiency
     Identifies operational bottlenecks
@@ -86,6 +91,9 @@ This project also includes interactive dashboards built in Power BI using the No
 ---
 
  Dashboard Screenshots
+ Sales Executive Dashboard
+ 
+ [sales Excutive Dashboard](powerbi/sales_executive_dashboard.png)
 
 Customer & Sales Performance
 
