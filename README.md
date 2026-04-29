@@ -1,4 +1,4 @@
-Northwind SQL Analytics Project
+Northwind SQL & Power BI Analytics Project
 
 Project Overview
 This project is an in depth SQL analysis of the Northwind database.  
@@ -51,9 +51,18 @@ The project is grouped into four tiers:
 - Subqueries
 - CTEs (Common Table Expressions)
 - Window Functions (RANK, LAG)
-- Business Data Analysis
+   Business Data Analysis
 - KPI reporting
 
- Conclusion
-This project demonstrates how SQL can be used to extract meaningful business insights from raw transactional data. It simulates real world data analysis tasks in sales and customer analytics.
+├── powerbi/
+│   ├── customer_sales_dashboard.png
+│   ├── product_inventory_dashboard.png
+│   ├── operations_logistics_dashboard.png
+│
+├── data/
+│   └── northwind_dataset.csv
+│
+└── README.md
+
+and customer analytics.
 
