@@ -52,7 +52,7 @@ The project is grouped into four tiers:
 - CTEs (Common Table Expressions)
 - Window Functions (RANK, LAG)
    Business Data Analysis
-- KPI reporting
+- KPI reporting and customer analytics.
 
 ├── powerbi/
 │   ├── customer_sales_dashboard.png
@@ -64,5 +64,44 @@ The project is grouped into four tiers:
 │
 └── README.md
 
-and customer analytics.
+
+This project also includes interactive dashboards built in Power BI using the Northwind dataset.
+
+1. Customer and Sales Performance Dashboard
+  Analyzes customer purchase behavior
+  Tracks total sales and revenue trends
+  Identifies top customers and regions
+
+ 2. Product and Inventory Dashboard
+   Monitors stock levels and product performance
+   Identifies fast moving and slow moving products
+   Helps in inventory optimization decisions
+
+   3. Operational and Logistics Dashboard
+   Analyzes order processing and shipping performance
+   Tracks delivery timelines and efficiency
+    Identifies operational bottlenecks
+
+---
+
+ Dashboard Screenshots
+
+Customer & Sales Performance
+
+![Customer Dashboard](powerbi/customer_sales_dashboard.png)
+
+Product & Inventory
+
+![Inventory Dashboard](powerbi/product_inventory_dashboard.png)
+
+ Operations & Logistics
+
+![Operations Dashboard](powerbi/operations_logistics_dashboard.png)
+
+ Conclusion
+
+This project combines SQL and Power BI to transform raw data into meaningful insights. While SQL was used for data extraction and preparation, Power BI was used to visualize and communicate key findings.
+
+The result is a complete data analysis workflow that supports better business decisions.
+
 
