@@ -1,15 +1,16 @@
 Northwind SQL & Power BI Analytics Project
 
 Project Overview
-This project is an in depth SQL analysis of the Northwind database.  
+This project is an in depth SQL AND Power BI analysis of the Northwind database.  
 It focuses on business insights such as revenue, customers, products, employees, and operational performance.
 
-The goal is to demonstrate data analysis skills using SQL for business decision making.
+The goal is to demonstrate data analysis skills using SQL and Power BI for business decision making.
 
- Tool Used
+ ToolS Used
  MYSQL
+ POWER BI
 Project Structure
-The project is grouped into four tiers:
+The SQL project is grouped into four tiers:
 
  Tier 1: Basic Analysis
 - Total orders, customers, products
